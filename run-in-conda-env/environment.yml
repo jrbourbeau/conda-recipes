@@ -1,0 +1,5 @@
+name: conda-environment
+channels:
+  - defaults
+dependencies:
+  - python=3
